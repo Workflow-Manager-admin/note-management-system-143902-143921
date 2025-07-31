@@ -44,3 +44,6 @@ websockets==15.0.1
 SQLAlchemy==2.0.30
 alembic==1.13.1
 psycopg2-binary==2.9.9
+# Auth/JWT requirements
+python-jose
+passlib[bcrypt]
